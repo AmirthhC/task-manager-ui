@@ -22,6 +22,7 @@ export const useLoginForm = (onLogin: () => void) => {
     const { username, password } = data;
 
     try {
+      await new Promise((res) => setTimeout(res, 500));
       const res = await fetch(
         `http://localhost:3001/users?username=${username}&password=${password}`
       );
