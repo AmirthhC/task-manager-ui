@@ -1,5 +1,5 @@
 ### Design and Developed by: Amirthalingam
-## Email: amirthh.c@gmail.com
+### Email: amirthh.c@gmail.com
 
 # Task Manager UI
 
