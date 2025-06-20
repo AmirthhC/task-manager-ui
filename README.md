@@ -1,3 +1,6 @@
+### Design and Developed by: Amirthalingam
+## Email: amirthh.c@gmail.com
+
 # Task Manager UI
 
 This is a React + TypeScript based Task Manager application with authentication, CRUD operations, and a local mock API using `json-server`.
